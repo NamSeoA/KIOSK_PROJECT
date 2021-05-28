@@ -1,6 +1,8 @@
 # KIOSK_PROJECT
 한솥도시락을 벤치마킹하여 웹기반 사용자의 UI/UX를 표현하는 비대면 서비스를 위한 KIOSK UI 구현
 
+[시연영상 🎬](https://www.youtube.com/watch?v=z_4dOv2sEcA)
+
 ------------
 
 # 1. 소개
