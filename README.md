@@ -2,7 +2,7 @@
 웹기반으로 사용자의 UI/UX를 표현하는 비대면 서비스를 위한 KIOSK UI 구현 _한솥도시락 벤치마킹
 
 ## 소개
-스크린샷 2021-05-28 오후 3.01.39![image](https://user-images.githubusercontent.com/71997900/119938302-2a0fae80-bfc7-11eb-91e6-3b796021a066.png)
+[image](https://user-images.githubusercontent.com/71997900/119938302-2a0fae80-bfc7-11eb-91e6-3b796021a066.png)
 
 ## 정보구조도 & 흐름도
 스크린샷 2021-05-28 오후 3.02.17![image](https://user-images.githubusercontent.com/71997900/119938468-6a6f2c80-bfc7-11eb-8495-8c0222ff72e7.png)
