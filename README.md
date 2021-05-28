@@ -1,14 +1,15 @@
 # KIOSK_PROJECT
 웹기반으로 사용자의 UI/UX를 표현하는 비대면 서비스를 위한 KIOSK UI 구현 _한솥도시락 벤치마킹
 
-## 소개
+# 1. 소개
 ![image](https://user-images.githubusercontent.com/71997900/119938302-2a0fae80-bfc7-11eb-91e6-3b796021a066.png)
 
 ![image](https://user-images.githubusercontent.com/71997900/119938468-6a6f2c80-bfc7-11eb-8495-8c0222ff72e7.png)
 
 ![image](https://user-images.githubusercontent.com/71997900/119938482-6f33e080-bfc7-11eb-8368-9930e4c24379.png)
 
-## 화면설계 & 화면구현
+
+## 2. 화면설계 & 화면구현
 ![image](https://user-images.githubusercontent.com/71997900/119938526-84107400-bfc7-11eb-9aff-d5a44ac529dd.png)
 
 ![image](https://user-images.githubusercontent.com/71997900/119938516-7f4bc000-bfc7-11eb-8262-cb0e41ad6f8a.png)
@@ -19,7 +20,8 @@
 
 ![image](https://user-images.githubusercontent.com/71997900/119938568-938fbd00-bfc7-11eb-8319-1ab1a4e114c8.png)
 
-## 주요기능 & 설계 내용
+
+# 3. 주요기능 & 설계 내용
 ![image](https://user-images.githubusercontent.com/71997900/119938620-a7d3ba00-bfc7-11eb-95a6-c15c00f210c7.png)
 ![image](https://user-images.githubusercontent.com/71997900/119938648-b28e4f00-bfc7-11eb-8171-289117b74df0.png)
 ![image](https://user-images.githubusercontent.com/71997900/119938656-b5893f80-bfc7-11eb-8dfc-7756b699e33c.png)
@@ -35,5 +37,6 @@
 ![image](https://user-images.githubusercontent.com/71997900/119938799-e9646500-bfc7-11eb-89a4-f59a7f06a1f7.png)
 ![image](https://user-images.githubusercontent.com/71997900/119938979-2597c580-bfc8-11eb-9de7-beb16a414b33.png)
 
-## 프로젝트를 진행하며 느낀점
+
+# 4. 프로젝트를 진행하며 느낀점
 자바스크립트로 진행한 프로젝트가 처음이라 초반에 자바스크립트, html, css를 유기적으로 연결하는 것에 어려움을 느꼈습니다. 또한 장바구니 파트를 맡았는데 이 파트를 진행하면서 장바구니 배열을 오브젝트로 생성하는 부분을 이해하는데 긴 시간이 걸렸고 이해한 후에도 구현하기까지 시간이 꽤 소요되었습니다. 그러다보니 마음이 더 앞서 순서대로 진행하지 못하고 뒤죽박죽이 되었는데 이 경험을 통해 데이터 설계 시에는 작업 단위를 쪼개서 계속 콘솔에 값을 찍어보며 확인하는 습관이 필요하고 중요하다는 것을 깨달았습니다.
